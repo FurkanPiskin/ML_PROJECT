@@ -50,6 +50,10 @@ seaborn, matplotlib – görselleştirme
 
 scikit-learn – modelleme, regresyon, GridSearch
 
+Kaggle Notebook Linki:
+
+https://www.kaggle.com/code/furkanpikin/ml-project3
+
 
 
 
