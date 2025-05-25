@@ -11,7 +11,7 @@ Projede iki farklı denetimli öğrenme algoritması uygulanmıştır:
 
 DecisionTreeRegressor
 
-RandomForestRegressor ✅ (en iyi sonuç veren model)
+RandomForestRegressor  (en iyi sonuç veren model)
 
 Bu modellerin parametreleri, GridSearchCV ile optimize edilmiş ve en iyi performans veren yapı seçilmiştir. Model başarısı için MSE (Mean Squared Error), RMSE (Root Mean Squared Error) ve MAE (Mean Absolute Error) metrikleri kullanılmıştır.
 
